@@ -172,7 +172,7 @@ proxies:
       Host: lg1.freessr2.xyz
   grpc-opts:
     serviceName: /
-- name: 🇺🇸 US-vless | 2-0
+- name: 🏳 Unknown-vless | 2-0
   type: vless
   server: yh9.dtku41.xyz
   port: 443
@@ -218,7 +218,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: ♻️ 自动选择
   type: url-test
@@ -236,7 +236,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: 📺 巴哈姆特
   type: select
@@ -253,7 +253,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: 📺 哔哩哔哩
   type: select
@@ -270,7 +270,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: 🌏 国内媒体
   type: select
@@ -287,7 +287,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: 🌍 国外媒体
   type: select
@@ -304,7 +304,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: 📲 电报信息
   type: select
@@ -321,7 +321,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: Ⓜ️ 微软云盘
   type: select
@@ -338,7 +338,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: Ⓜ️ 微软服务
   type: select
@@ -355,7 +355,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: 🍎 苹果服务
   type: select
@@ -372,7 +372,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: 📢 谷歌FCM
   type: select
@@ -389,7 +389,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: 🤖 OpenAI
   type: select
@@ -406,7 +406,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 - name: 🎯 全球直连
   type: select
@@ -432,7 +432,7 @@ proxy-groups:
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
   - 🇺🇸 US-vless | 1-0
-  - 🇺🇸 US-vless | 2-0
+  - 🏳 Unknown-vless | 2-0
   - 🇺🇸 US-vless | 3-0
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
