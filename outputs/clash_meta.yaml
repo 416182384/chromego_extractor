@@ -41,9 +41,9 @@ proxies:
     path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
     headers:
       host: luther-soon-uploaded-anxiety.trycloudflare.com
-- name: 🏳 Unknown-vmess | 3-3
+- name: 🇨🇦 CA-vmess | 3-3
   type: vmess
-  server: 104.19.38.28
+  server: 23.227.38.7
   port: 8080
   cipher: auto
   uuid: ef8c954e-014f-4b36-8273-9b5086afab34
@@ -159,7 +159,7 @@ proxies:
   skip-cert-verify: true
 - name: 🏳 Unknown-vless | 1-0
   type: vless
-  server: yh6.dtku41.xyz
+  server: yh4.dtku41.xyz
   port: 443
   uuid: ebfdccb6-7416-4b6e-860d-98587344d500
   tls: true
@@ -174,7 +174,7 @@ proxies:
     serviceName: /
 - name: 🏳 Unknown-vless | 2-0
   type: vless
-  server: yh9.dtku41.xyz
+  server: yh1.dtku41.xyz
   port: 443
   uuid: ebfdccb6-7416-4b6e-860d-98587344d500
   tls: true
@@ -210,7 +210,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -228,7 +228,7 @@ proxy-groups:
   proxies:
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -245,7 +245,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -262,7 +262,7 @@ proxy-groups:
   - 🚀 节点选择
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -279,7 +279,7 @@ proxy-groups:
   - 🚀 节点选择
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -296,7 +296,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -313,7 +313,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -330,7 +330,7 @@ proxy-groups:
   - 🚀 节点选择
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -347,7 +347,7 @@ proxy-groups:
   - 🚀 节点选择
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -364,7 +364,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -381,7 +381,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -398,7 +398,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
@@ -424,7 +424,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-vmess | 3-1
   - 🇺🇸 US-vmess | 3-2
-  - 🏳 Unknown-vmess | 3-3
+  - 🇨🇦 CA-vmess | 3-3
   - 🏳 Unknown-vmess | 3-4
   - 🇺🇸 US-vless | 5-1
   - 🇺🇸 US-ss | 6-1
