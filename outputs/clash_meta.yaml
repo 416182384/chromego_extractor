@@ -35,11 +35,11 @@ proxies:
   up: 11
   down: 55
   hop_interval: 10
-- name: 🇫🇷 FR-Hysteria | 0-0
+- name: 🇺🇸 US-Hysteria | 0-0
   type: hysteria
-  server: 62.210.243.131
-  port: 18702
-  ports: 18702
+  server: 104.192.224.139
+  port: 42113
+  ports: 42113
   auth-str: dongtaiwang.com
   up: 80
   down: 100
@@ -124,7 +124,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -137,7 +137,7 @@ proxy-groups:
   proxies:
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -149,7 +149,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -161,7 +161,7 @@ proxy-groups:
   - 🚀 节点选择
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -173,7 +173,7 @@ proxy-groups:
   - 🚀 节点选择
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -185,7 +185,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -197,7 +197,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -209,7 +209,7 @@ proxy-groups:
   - 🚀 节点选择
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -221,7 +221,7 @@ proxy-groups:
   - 🚀 节点选择
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -233,7 +233,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -245,7 +245,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -257,7 +257,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
@@ -278,7 +278,7 @@ proxy-groups:
   - 🎯 全球直连
   - 🏳 Unknown-ss | 5-1
   - 🏳 Unknown-hysteria | 9-1
-  - 🇫🇷 FR-Hysteria | 0-0
+  - 🇺🇸 US-Hysteria | 0-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🏳 Unknown-vmess | 1-0
   - 🏳 Unknown-vmess | 2-0
